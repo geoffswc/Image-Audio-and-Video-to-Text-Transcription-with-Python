@@ -6,6 +6,7 @@ This workshop will introduce techniques to generate transcripts and annotations 
 
 * https://cloud.google.com/use-cases/ocr
 * https://github.com/openai/whisper
+* https://platform.openai.com/docs/models/gpt-4o-transcribe
 
 ## Data
 
