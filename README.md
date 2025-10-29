@@ -27,6 +27,6 @@ This workshop will introduce techniques to generate transcripts and annotations 
 ### Recordings
 
 * Fall 2025 Workshop
-  * https://media.ucsf.edu/media/Image-Audio-and-Video-to-Text-Transcription-with-Python/1_nccxx4us
+  * https://media.ucsf.edu/media/Image-Audio-Video-Transcription-Python/1_4qeq6u32
 
 
