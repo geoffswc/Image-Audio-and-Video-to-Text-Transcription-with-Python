@@ -23,5 +23,10 @@ This workshop will introduce techniques to generate transcripts and annotations 
 
 * Image 1: handwritten letter to a tobacco company
   * https://www.industrydocuments.ucsf.edu/tobacco/docs/#id=ytxk0091
+ 
+### Recordings
+
+* Fall 2025 Workshop
+  * https://media.ucsf.edu/media/Image-Audio-and-Video-to-Text-Transcription-with-Python/1_nccxx4us
 
 
